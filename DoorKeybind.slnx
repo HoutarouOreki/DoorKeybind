@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InteractDoorsKeybind/DoorKeybind.csproj" />
+  <Project Path="ZZCakeBuild/CakeBuild.csproj" />
+</Solution>

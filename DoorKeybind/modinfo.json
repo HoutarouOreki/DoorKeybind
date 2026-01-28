@@ -1,0 +1,15 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "doorkeybind",
+    "name": "Door keybind",
+    "authors": [
+        "OrekiWoof"
+    ],
+    "description": "Lets you open and close doors with a keybind, so you don't have to turn around to click them.",
+    "version": "1.0.0-rc.1",
+    "dependencies": {
+        "game": "1.21.0"
+    },
+    "side": "Universal"
+}
